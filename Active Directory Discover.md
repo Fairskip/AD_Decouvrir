@@ -68,6 +68,4 @@ Ajout de rôle et de fonctionnalités > Assistant Ajout de rôles et de fonction
   
 ![restart](https://github.com/Fairskip/AD_Decouvrir/blob/main/ADDS%20config%206.png)  
    
-<br>  
 
-   ![here](https://github.com/Fairskip/AD_Decouvrir/blob/main/Domaine%20Wilders.png)
