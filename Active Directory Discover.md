@@ -1,5 +1,5 @@
 
-### 1. Installation du Service AD DS sur le serveur
+# 1. Installation du Service AD DS sur le serveur
 
 ![Add AD DS](https://github.com/Fairskip/AD_Decouvrir/blob/main/AD%20DS%20Install.png)
 <br><br>
@@ -15,7 +15,7 @@ Ajout de rôle et de fonctionnalités > Assistant Ajout de rôles et de fonction
 
 <br>
 
-### 2. Configuration de AD DS : Promouvoir ce serveur.   
+# 2. Configuration de AD DS : Promouvoir ce serveur.   
 
 1 -  Gestionnaire de serveur => Cliquer sur le drapeau jaune   
 
